@@ -1,6 +1,2 @@
-# Pandas-Challenge
+# PyCity Schools Analysis
 
-#Dependencies
-import pandas as pd
-import numpy as np
-import os
